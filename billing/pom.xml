@@ -74,7 +74,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.16</version>
+            <version>1.18.30</version>
             <optional>true</optional>
         </dependency>
         <dependency>
@@ -114,9 +114,10 @@
                     <!-- generate mappers -->
                     <annotationProcessorPaths>
                         <path>
-                            <groupId>org.projectlombok</groupId>
+                            <groupId>org.project
+                            </groupId>
                             <artifactId>lombok</artifactId>
-                            <version>1.18.16</version>
+                            <version>1.18.30</version>
                         </path>
                         <path>
                             <groupId>org.mapstruct</groupId>
